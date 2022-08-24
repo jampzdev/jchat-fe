@@ -1,0 +1,40 @@
+
+.chat-box-owner-container {
+    width: 50%;
+    margin:10px;
+    background-color:#2596be;
+    float:right;
+    padding:5px;
+    border-radius: 5px;
+}
+.box {
+    display: inline-block;
+    width: 45px;
+    min-height: 45px;
+}
+.chat-box-owner-container .chat-info {
+    display: inline-block;
+    vertical-align: top;
+}
+.chat-box-owner-container .chat-info .title, .sub-title {
+    margin: 0;
+}
+.chat-box-owner-container .chat-info .title {
+    font-weight: bold;
+}
+.chat-box-owner-container .chat-info .sub-title {
+    color: #fff;
+}
+img {
+    height:40px;
+    width:40px;
+    border-radius: 100%;
+}
+
+.float-right {
+    float:right;
+}
+.float-left {
+    float:left;
+}
+

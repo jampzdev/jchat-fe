@@ -1,0 +1,17 @@
+.sidebar {
+    height:auto;
+}
+
+.sidebar ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+}
+
+.sidebar ul li:hover {
+    background-color: #ddd;
+}
+
+.user-info {
+    min-height: 100px;
+}

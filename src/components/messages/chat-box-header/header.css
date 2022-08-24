@@ -1,0 +1,14 @@
+.header {
+    border-left: 1px solid;
+    height:40px;
+    display:flex;
+    justify-content: center;
+    border-bottom: 1px solid;
+    padding:10px;
+    border-right: 1px solid;
+
+}
+
+.header .room_name {
+    font-weight: bold;
+}

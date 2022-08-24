@@ -1,0 +1,36 @@
+.room-box .container {
+    margin:10px;
+}
+.room-box{
+    display: flex;
+}
+.room-box .box {
+    display: inline-block;
+    width: 45px;
+    min-height: 45px;
+}
+.chat-info {
+    display: inline-block;
+    vertical-align: top;
+}
+.title, .sub-title {
+    margin: 0;
+}
+.title {
+    font-weight: bold;
+}
+.sub-title {
+    color: #3F3F3F;
+}
+img {
+    height:30px;
+    width:40px;
+    border-radius: 100%;
+}
+
+.float-right {
+    float:right;
+}
+.float-left {
+    float:left;
+}
